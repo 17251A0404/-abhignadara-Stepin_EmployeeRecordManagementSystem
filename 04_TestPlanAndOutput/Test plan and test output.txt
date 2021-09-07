@@ -1,0 +1,44 @@
+# Test plan and test output:
+
+Test case Description: To Add contact in your phone
+Test Inputs: 1)Enter your choice (say 1,2,3,4,5)
+                        2)1
+                        3)Enter the new name:
+                        4)Enter the mobile number:
+Test Output: Contact is added 
+Test Status: Pass
+
+
+Test case Description: To Search contact in your phone
+Test Inputs: 1)Enter your choice (say 1,2,3,4,5)
+                        2)2
+                        3)Enter the new name:
+                        4)Enter the mobile number:
+Test Output: Contact found
+Test Status: Pass
+
+
+Test case Description: To Delete contact in your phone
+Test Inputs: 1)Enter your choice (say 1,2,3,4,5)
+                        2)3
+                        3)Enter the new name:
+                        4)Enter the mobile number:
+Test Output: Contact is deleted
+Test Status: Pass
+
+
+Test case Description: To View all contacts in your phone
+Test Inputs: 1)Enter your choice (say 1,2,3,4,5)
+                        2)4
+                        3)Enter the new name:
+                        4)Enter the mobile number:
+Test Output: Contacts are viewed
+Test Status:Pass
+
+
+
+
+
+
+
+
